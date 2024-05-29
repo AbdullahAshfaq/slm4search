@@ -161,5 +161,8 @@ cython_debug/
 
 */*.tar.gz*
 test/datasets
+datasets
 test/elastic*
 test/output
+*/checkpoints
+output
