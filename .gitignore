@@ -166,3 +166,4 @@ test/elastic*
 test/output
 */checkpoints
 output
+beir
